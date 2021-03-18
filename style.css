@@ -1,0 +1,20 @@
+.bg-main-image{
+  background-image: url(./banner.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 35vh;
+  position: relative;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+  .bg-main-image {
+    background-image: url(./shake.jpg);
+  }
+`
+  .title-tag  {
+    position:absolute;
+    bottom: -1.5rem;
+  }
+}
