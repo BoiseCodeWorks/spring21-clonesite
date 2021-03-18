@@ -12,7 +12,6 @@
   .bg-main-image {
     background-image: url(./shake.jpg);
   }
-`
   .title-tag  {
     position:absolute;
     bottom: -1.5rem;
